@@ -1,0 +1,10 @@
+@import "ShadowFox/userContent_imports.css";
+/*@import "ublock.css";*/
+
+#PersonalToolbar { 
+  visibility:collapse;
+}
+#main-window[title^="New Tab"] #PersonalToolbar, 
+#main-window[title="Mozilla Firefox"] #PersonalToolbar { 
+  visibility:visible !important;
+}

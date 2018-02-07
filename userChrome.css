@@ -1,0 +1,6 @@
+@import "ShadowFox/userChrome_imports.css";
+
+/* Hide Mobile Bookmarks from Toolbar Bookmarks Menu */
+#BMB_mobileBookmarks {
+  display: none !important;
+}
