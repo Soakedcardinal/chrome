@@ -1,1 +1,3 @@
-This repository contains user style files for my Firefox Quantum 59 installations on Windows 10 and Ubuntu 17.11
+Simple AMOLED black firefox css with sepia tones.
+
+Context menus might not work if you don't have dark reader installed https://darkreader.org/
