@@ -1,6 +1,0 @@
-[submodule "ShadowFox"]
-	path = ShadowFox
-	url = https://github.com/overdodactyl/ShadowFox.git
-[submodule "UserChrome-Tweaks"]
-	path = UserChrome-Tweaks
-	url = https://github.com/Timvde/UserChrome-Tweaks.git
